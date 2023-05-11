@@ -2,8 +2,8 @@
 
 Common Lisp logging framework, modeled after Log4J.
 
-|---------+----------------------------------------|
-| source  | git:https://github.com/7max/log4cl.git |
-| commit  | d6293f9                                |
-| systems | log4cl                                 |
-|---------+----------------------------------------|
+|---------+------------------------------------------------|
+| source  | git:https://github.com/sharplispers/log4cl.git |
+| commit  | fe3da51                                        |
+| systems | log4cl                                         |
+|---------+------------------------------------------------|
