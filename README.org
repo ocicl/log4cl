@@ -1,0 +1,9 @@
+* log4cl
+
+Common Lisp logging framework, modeled after Log4J.
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/7max/log4cl.git |
+| commit  | d6293f9                                |
+| systems | log4cl                                 |
+|---------+----------------------------------------|
